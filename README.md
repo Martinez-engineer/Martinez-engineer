@@ -1,4 +1,4 @@
-## Hi, my name is Everton Martinez! 🖥️⛓️
+## Hi, my name is Everton Martinez!
 Student of Blockchain Engineering and backend development with Django.
 
 <div style="display: inline_block"><br>
