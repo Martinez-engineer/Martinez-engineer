@@ -9,6 +9,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-pla
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-plain.svg" />
   <img align="center" alt="Rafa-React" height="50" width="50" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Rafa-React" height="50" width="50" 
+src="https://github.com/flet-dev/flet/raw/main/media/logo/flet-logo-no-text.svg" />
+<img align="center" alt="Rafa-React" height="50" width="50" 
+src="https://github.com/foundry-rs/foundry/blob/master/.github/logo.png" />
+<img align="center" alt="Rafa-React" height="100" width="180" 
+src="https://github.com/ethereum/remix-ide/blob/master/docs/_static/img/remix-logo.svg" />
+
   
   ##
  
@@ -18,4 +25,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
  <a href="[https://discord.gg/wagxzStdcR](https://discord.com/users/1147651174082818129)" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/m13.digital" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-</div>
+</div
