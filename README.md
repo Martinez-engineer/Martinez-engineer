@@ -1,6 +1,9 @@
-## Hi, my name is Everton Martinez!
+### Hi, my name is Everton Martinez!
 Student of Blockchain Engineering and backend development with Python.
 
+## 
+
+### Skills 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="50" width="50" 
@@ -15,9 +18,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity
 src="https://github.com/Martinez-engineer/Martinez-engineer/blob/main/Picsart_24-08-02_20-29-31-557.png" />
 <img align="center" alt="Rafa-React" height="50" width="50" 
 src="https://github.com/foundry-rs/foundry/blob/master/.github/logo.png" />
+
+  ###
   
-  ##
- 
+These are the technologies that I'm training, practicing, and using in my personal projects.
+ ##
+  Contact me:
 <div> 
   <a href="https://www.linkedin.com/in/martinezeverton" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:evertonmartinez13@hotmail.com"><img src="https://img.shields.io/badge/-hotmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
