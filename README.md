@@ -1,21 +1,20 @@
 ## Hi, my name is Everton Martinez!
-Student of Blockchain Engineering and backend development with Django.
+Student of Blockchain Engineering and backend development with Python.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="50" width="50" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />      
- <img align="center" alt="Rafa-React" height="50" width="50" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-plain.svg" />
   <img align="center" alt="Rafa-React" height="50" width="50" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Rafa-React" height="50" width="50" 
 src="https://github.com/flet-dev/flet/raw/main/media/logo/flet-logo-no-text.svg" />
 <img align="center" alt="Rafa-React" height="50" width="50" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-plain.svg" />
+<img align="center" alt="Rafa-React" height="60" width="60" 
+src="https://github.com/Martinez-engineer/Martinez-engineer/blob/main/Picsart_24-08-02_20-29-31-557.png" />
+<img align="center" alt="Rafa-React" height="50" width="50" 
 src="https://github.com/foundry-rs/foundry/blob/master/.github/logo.png" />
-<img align="center" alt="Rafa-React" height="100" width="180" 
-src="https://github.com/ethereum/remix-ide/blob/master/docs/_static/img/remix-logo.svg" />
-
   
   ##
  
